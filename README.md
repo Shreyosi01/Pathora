@@ -7,7 +7,7 @@ Pathora is an AI-powered learning platform that helps users generate personalize
 ## 🌐 Deployed Website
 
 👉 Live Demo:  
-https://round-purse-information-perspective.trycloudflare.com/
+https://approach-methods-avon-beatles.trycloudflare.com/?view=learning-path
 
 ---
 
